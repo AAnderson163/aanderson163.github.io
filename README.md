@@ -2,7 +2,7 @@
 
 Current film student at **Georgia State University**. Working in the **Atlanta** Film industry. Current intern at **The Atlanta Film Society**. 
 
-Desiring a job in Literary, Dramaturg, and New work Development.
+<p>Desiring a job in Literary, Dramaturg, and New work Development.
 
 ## Experience 
 

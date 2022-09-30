@@ -1,8 +1,10 @@
 # aanderson163.github.io
 
-Current film student at **Georgia State University**. Working in the **Atlanta** Film industry. Current intern at **The Atlanta Film Society**. <p> Desiring a job in Literary, Dramaturg, and New work Development.<p>
+Current film student at **Georgia State University**. Working in the **Atlanta** Film industry. Current intern at **The Atlanta Film Society**. 
 
-##Experience 
+Desiring a job in Literary, Dramaturg, and New work Development.
+
+## Experience 
 
 - Avid Editing Experience 
 - Premiere Pro Editing Experience 
